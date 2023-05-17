@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\bin\Debug\EvenShow.exe.config
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\bin\Debug\EvenShow.exe
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\bin\Debug\EvenShow.pdb
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\obj\Debug\EvenShow.exe
+C:\Users\Administrator\source\repos\EvenShow\EvenShow\obj\Debug\EvenShow.pdb

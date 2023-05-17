@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Fact\Fact\obj\Debug\Fact.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Fact\Fact\obj\Debug\Fact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Fact\Fact\obj\Debug\Fact.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Fact\Fact\bin\Debug\Fact.exe.config
+C:\Users\Administrator\source\repos\Fact\Fact\bin\Debug\Fact.exe
+C:\Users\Administrator\source\repos\Fact\Fact\bin\Debug\Fact.pdb
+C:\Users\Administrator\source\repos\Fact\Fact\obj\Debug\Fact.exe
+C:\Users\Administrator\source\repos\Fact\Fact\obj\Debug\Fact.pdb
