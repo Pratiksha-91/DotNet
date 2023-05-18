@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\bin\Debug\method_overriding.exe.config
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\bin\Debug\method_overriding.exe
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\bin\Debug\method_overriding.pdb
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\obj\Debug\method_overriding.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\obj\Debug\method_overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\obj\Debug\method_overriding.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\obj\Debug\method_overriding.exe
+C:\Users\Administrator\source\repos\method_overriding\method_overriding\obj\Debug\method_overriding.pdb

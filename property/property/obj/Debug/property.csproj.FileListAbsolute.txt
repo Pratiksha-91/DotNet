@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\property\property\obj\Debug\property.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\property\property\obj\Debug\property.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\property\property\obj\Debug\property.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\property\property\bin\Debug\property.exe.config
+C:\Users\Administrator\source\repos\property\property\bin\Debug\property.exe
+C:\Users\Administrator\source\repos\property\property\bin\Debug\property.pdb
+C:\Users\Administrator\source\repos\property\property\obj\Debug\property.exe
+C:\Users\Administrator\source\repos\property\property\obj\Debug\property.pdb

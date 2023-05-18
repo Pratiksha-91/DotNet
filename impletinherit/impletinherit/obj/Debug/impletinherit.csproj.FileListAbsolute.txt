@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\bin\Debug\impletinherit.exe.config
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\bin\Debug\impletinherit.exe
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\bin\Debug\impletinherit.pdb
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\obj\Debug\impletinherit.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\obj\Debug\impletinherit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\obj\Debug\impletinherit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\obj\Debug\impletinherit.exe
+C:\Users\Administrator\source\repos\impletinherit\impletinherit\obj\Debug\impletinherit.pdb
