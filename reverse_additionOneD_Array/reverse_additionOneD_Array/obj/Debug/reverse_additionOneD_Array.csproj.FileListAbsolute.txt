@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\bin\Debug\reverse_additionOneD_Array.exe.config
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\bin\Debug\reverse_additionOneD_Array.exe
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\bin\Debug\reverse_additionOneD_Array.pdb
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\obj\Debug\reverse_additionOneD_Array.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\obj\Debug\reverse_additionOneD_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\obj\Debug\reverse_additionOneD_Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\obj\Debug\reverse_additionOneD_Array.exe
+C:\Users\Administrator\source\repos\reverse_additionOneD_Array\reverse_additionOneD_Array\obj\Debug\reverse_additionOneD_Array.pdb

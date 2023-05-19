@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\obj\Debug\oneDArray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\obj\Debug\oneDArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\obj\Debug\oneDArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\bin\Debug\oneDArray.exe.config
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\bin\Debug\oneDArray.exe
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\bin\Debug\oneDArray.pdb
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\obj\Debug\oneDArray.exe
+C:\Users\Administrator\source\repos\oneDArray\oneDArray\obj\Debug\oneDArray.pdb

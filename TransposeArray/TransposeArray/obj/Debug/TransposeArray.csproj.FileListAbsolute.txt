@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\obj\Debug\TransposeArray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\obj\Debug\TransposeArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\obj\Debug\TransposeArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\bin\Debug\TransposeArray.exe.config
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\bin\Debug\TransposeArray.exe
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\bin\Debug\TransposeArray.pdb
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\obj\Debug\TransposeArray.exe
+C:\Users\Administrator\source\repos\TransposeArray\TransposeArray\obj\Debug\TransposeArray.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\bin\Debug\square_cubeOndeDarray.exe.config
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\bin\Debug\square_cubeOndeDarray.exe
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\bin\Debug\square_cubeOndeDarray.pdb
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\obj\Debug\square_cubeOndeDarray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\obj\Debug\square_cubeOndeDarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\obj\Debug\square_cubeOndeDarray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\obj\Debug\square_cubeOndeDarray.exe
+C:\Users\Administrator\source\repos\square_cubeOndeDarray\square_cubeOndeDarray\obj\Debug\square_cubeOndeDarray.pdb

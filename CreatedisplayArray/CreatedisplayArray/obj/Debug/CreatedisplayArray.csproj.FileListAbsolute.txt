@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\obj\Debug\CreatedisplayArray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\obj\Debug\CreatedisplayArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\obj\Debug\CreatedisplayArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\bin\Debug\CreatedisplayArray.exe.config
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\bin\Debug\CreatedisplayArray.exe
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\bin\Debug\CreatedisplayArray.pdb
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\obj\Debug\CreatedisplayArray.exe
+C:\Users\Administrator\source\repos\CreatedisplayArray\CreatedisplayArray\obj\Debug\CreatedisplayArray.pdb
