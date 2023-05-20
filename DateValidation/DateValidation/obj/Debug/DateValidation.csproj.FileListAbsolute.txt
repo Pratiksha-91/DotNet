@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\bin\Debug\DateValidation.exe.config
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\bin\Debug\DateValidation.exe
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\bin\Debug\DateValidation.pdb
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\obj\Debug\DateValidation.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\obj\Debug\DateValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\obj\Debug\DateValidation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\obj\Debug\DateValidation.exe
+C:\Users\Administrator\source\repos\DateValidation\DateValidation\obj\Debug\DateValidation.pdb

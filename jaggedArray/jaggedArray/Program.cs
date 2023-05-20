@@ -10,10 +10,11 @@ namespace jaggedArray
     {
         static void Main(string[] args)
         {
-            int[][] arr = new int[3][]{
-        new int[] { 11, 21, 56, 78 },
-        new int[] { 2, 5, 6, 7, 98, 5 },
-        new int[] { 2, 5 }
+            int[][] arr = new int[3][]
+            {
+                  new int[] { 11, 21, 56, 78 },
+                  new int[] { 2, 5, 6, 7, 98, 5 },
+                  new int[] { 2, 5 }
         };
 
              

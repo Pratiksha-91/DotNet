@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\validD\validD\bin\Debug\validD.exe.config
+C:\Users\Administrator\source\repos\validD\validD\bin\Debug\validD.exe
+C:\Users\Administrator\source\repos\validD\validD\bin\Debug\validD.pdb
+C:\Users\Administrator\source\repos\validD\validD\obj\Debug\validD.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\validD\validD\obj\Debug\validD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\validD\validD\obj\Debug\validD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\validD\validD\obj\Debug\validD.exe
+C:\Users\Administrator\source\repos\validD\validD\obj\Debug\validD.pdb

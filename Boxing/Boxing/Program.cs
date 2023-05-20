@@ -10,6 +10,14 @@ namespace Boxing
     {
         static void Main(string[] args)
         {
+            int num;
+            Console.WriteLine("enter integer value");
+
+            num = Convert.ToInt32(Console.ReadLine());
+
+            object y = num; //boxing
+
+            Console.WriteLine(y + "this is example of boxing");
         }
     }
 }
