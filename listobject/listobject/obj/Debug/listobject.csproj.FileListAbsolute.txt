@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\listobject\listobject\bin\Debug\listobject.exe.config
+C:\Users\Administrator\source\repos\listobject\listobject\bin\Debug\listobject.exe
+C:\Users\Administrator\source\repos\listobject\listobject\bin\Debug\listobject.pdb
+C:\Users\Administrator\source\repos\listobject\listobject\obj\Debug\listobject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\listobject\listobject\obj\Debug\listobject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\listobject\listobject\obj\Debug\listobject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\listobject\listobject\obj\Debug\listobject.exe
+C:\Users\Administrator\source\repos\listobject\listobject\obj\Debug\listobject.pdb

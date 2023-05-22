@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\bin\Debug\anstrattion.exe.config
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\bin\Debug\anstrattion.exe
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\bin\Debug\anstrattion.pdb
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\obj\Debug\anstrattion.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\obj\Debug\anstrattion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\obj\Debug\anstrattion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\obj\Debug\anstrattion.exe
+C:\Users\Administrator\source\repos\anstrattion\anstrattion\obj\Debug\anstrattion.pdb

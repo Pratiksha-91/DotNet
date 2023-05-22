@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\abstration11\abstration11\bin\Debug\abstration11.exe.config
+C:\Users\Administrator\source\repos\abstration11\abstration11\bin\Debug\abstration11.exe
+C:\Users\Administrator\source\repos\abstration11\abstration11\bin\Debug\abstration11.pdb
+C:\Users\Administrator\source\repos\abstration11\abstration11\obj\Debug\abstration11.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\abstration11\abstration11\obj\Debug\abstration11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\abstration11\abstration11\obj\Debug\abstration11.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\abstration11\abstration11\obj\Debug\abstration11.exe
+C:\Users\Administrator\source\repos\abstration11\abstration11\obj\Debug\abstration11.pdb

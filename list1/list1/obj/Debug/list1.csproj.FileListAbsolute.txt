@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\list1\list1\bin\Debug\list1.exe.config
+C:\Users\Administrator\source\repos\list1\list1\bin\Debug\list1.exe
+C:\Users\Administrator\source\repos\list1\list1\bin\Debug\list1.pdb
+C:\Users\Administrator\source\repos\list1\list1\obj\Debug\list1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\list1\list1\obj\Debug\list1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\list1\list1\obj\Debug\list1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\list1\list1\obj\Debug\list1.exe
+C:\Users\Administrator\source\repos\list1\list1\obj\Debug\list1.pdb

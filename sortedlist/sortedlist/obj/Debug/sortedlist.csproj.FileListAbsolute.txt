@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\Administrator\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.pdb
