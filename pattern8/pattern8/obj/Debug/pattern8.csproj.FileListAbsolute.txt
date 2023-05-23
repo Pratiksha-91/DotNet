@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern8\pattern8\obj\Debug\pattern8.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern8\pattern8\obj\Debug\pattern8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern8\pattern8\obj\Debug\pattern8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern8\pattern8\bin\Debug\pattern8.exe.config
+C:\Users\Administrator\source\repos\pattern8\pattern8\bin\Debug\pattern8.exe
+C:\Users\Administrator\source\repos\pattern8\pattern8\bin\Debug\pattern8.pdb
+C:\Users\Administrator\source\repos\pattern8\pattern8\obj\Debug\pattern8.exe
+C:\Users\Administrator\source\repos\pattern8\pattern8\obj\Debug\pattern8.pdb

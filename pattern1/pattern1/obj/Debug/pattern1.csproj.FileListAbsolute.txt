@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern1\pattern1\obj\Debug\pattern1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern1\pattern1\obj\Debug\pattern1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern1\pattern1\obj\Debug\pattern1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern1\pattern1\bin\Debug\pattern1.exe.config
+C:\Users\Administrator\source\repos\pattern1\pattern1\bin\Debug\pattern1.exe
+C:\Users\Administrator\source\repos\pattern1\pattern1\bin\Debug\pattern1.pdb
+C:\Users\Administrator\source\repos\pattern1\pattern1\obj\Debug\pattern1.exe
+C:\Users\Administrator\source\repos\pattern1\pattern1\obj\Debug\pattern1.pdb

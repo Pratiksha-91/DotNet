@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern13\pattern13\bin\Debug\pattern13.exe.config
+C:\Users\Administrator\source\repos\pattern13\pattern13\bin\Debug\pattern13.exe
+C:\Users\Administrator\source\repos\pattern13\pattern13\bin\Debug\pattern13.pdb
+C:\Users\Administrator\source\repos\pattern13\pattern13\obj\Debug\pattern13.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern13\pattern13\obj\Debug\pattern13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern13\pattern13\obj\Debug\pattern13.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern13\pattern13\obj\Debug\pattern13.exe
+C:\Users\Administrator\source\repos\pattern13\pattern13\obj\Debug\pattern13.pdb

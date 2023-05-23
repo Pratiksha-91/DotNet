@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern4\pattern4\bin\Debug\pattern4.exe.config
+C:\Users\Administrator\source\repos\pattern4\pattern4\bin\Debug\pattern4.exe
+C:\Users\Administrator\source\repos\pattern4\pattern4\bin\Debug\pattern4.pdb
+C:\Users\Administrator\source\repos\pattern4\pattern4\obj\Debug\pattern4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern4\pattern4\obj\Debug\pattern4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern4\pattern4\obj\Debug\pattern4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern4\pattern4\obj\Debug\pattern4.exe
+C:\Users\Administrator\source\repos\pattern4\pattern4\obj\Debug\pattern4.pdb

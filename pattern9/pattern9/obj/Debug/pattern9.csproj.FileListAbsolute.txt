@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern9\pattern9\bin\Debug\pattern9.exe.config
+C:\Users\Administrator\source\repos\pattern9\pattern9\bin\Debug\pattern9.exe
+C:\Users\Administrator\source\repos\pattern9\pattern9\bin\Debug\pattern9.pdb
+C:\Users\Administrator\source\repos\pattern9\pattern9\obj\Debug\pattern9.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern9\pattern9\obj\Debug\pattern9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern9\pattern9\obj\Debug\pattern9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern9\pattern9\obj\Debug\pattern9.exe
+C:\Users\Administrator\source\repos\pattern9\pattern9\obj\Debug\pattern9.pdb

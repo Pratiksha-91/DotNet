@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern10\pattern10\bin\Debug\pattern10.exe.config
+C:\Users\Administrator\source\repos\pattern10\pattern10\bin\Debug\pattern10.exe
+C:\Users\Administrator\source\repos\pattern10\pattern10\bin\Debug\pattern10.pdb
+C:\Users\Administrator\source\repos\pattern10\pattern10\obj\Debug\pattern10.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern10\pattern10\obj\Debug\pattern10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern10\pattern10\obj\Debug\pattern10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern10\pattern10\obj\Debug\pattern10.exe
+C:\Users\Administrator\source\repos\pattern10\pattern10\obj\Debug\pattern10.pdb
