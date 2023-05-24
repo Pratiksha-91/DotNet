@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\crude\crude\bin\Debug\crude.exe.config
+C:\Users\Administrator\source\repos\crude\crude\bin\Debug\crude.exe
+C:\Users\Administrator\source\repos\crude\crude\bin\Debug\crude.pdb
+C:\Users\Administrator\source\repos\crude\crude\obj\Debug\crude.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\crude\crude\obj\Debug\crude.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\crude\crude\obj\Debug\crude.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\crude\crude\obj\Debug\crude.exe
+C:\Users\Administrator\source\repos\crude\crude\obj\Debug\crude.pdb

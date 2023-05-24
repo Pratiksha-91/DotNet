@@ -31,9 +31,9 @@ namespace WindowsFormsApp11
 
                 int result = input1 + input2;
 
-                Show("Addition:" + result.ToString());
+               MessageBox. Show("Addition:" + result);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
 
             }

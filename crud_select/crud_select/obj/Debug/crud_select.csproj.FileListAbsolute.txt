@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\crud_select\crud_select\bin\Debug\crud_select.exe.config
+C:\Users\Administrator\source\repos\crud_select\crud_select\bin\Debug\crud_select.exe
+C:\Users\Administrator\source\repos\crud_select\crud_select\bin\Debug\crud_select.pdb
+C:\Users\Administrator\source\repos\crud_select\crud_select\obj\Debug\crud_select.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\crud_select\crud_select\obj\Debug\crud_select.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\crud_select\crud_select\obj\Debug\crud_select.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\crud_select\crud_select\obj\Debug\crud_select.exe
+C:\Users\Administrator\source\repos\crud_select\crud_select\obj\Debug\crud_select.pdb

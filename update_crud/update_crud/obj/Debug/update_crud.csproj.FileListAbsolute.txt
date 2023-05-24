@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\update_crud\update_crud\bin\Debug\update_crud.exe.config
+C:\Users\Administrator\source\repos\update_crud\update_crud\bin\Debug\update_crud.exe
+C:\Users\Administrator\source\repos\update_crud\update_crud\bin\Debug\update_crud.pdb
+C:\Users\Administrator\source\repos\update_crud\update_crud\obj\Debug\update_crud.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\update_crud\update_crud\obj\Debug\update_crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\update_crud\update_crud\obj\Debug\update_crud.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\update_crud\update_crud\obj\Debug\update_crud.exe
+C:\Users\Administrator\source\repos\update_crud\update_crud\obj\Debug\update_crud.pdb
