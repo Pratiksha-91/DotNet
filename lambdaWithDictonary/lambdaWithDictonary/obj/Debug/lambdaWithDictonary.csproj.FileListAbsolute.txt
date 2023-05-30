@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\obj\Debug\lambdaWithDictonary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\obj\Debug\lambdaWithDictonary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\obj\Debug\lambdaWithDictonary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\bin\Debug\lambdaWithDictonary.exe.config
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\bin\Debug\lambdaWithDictonary.exe
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\bin\Debug\lambdaWithDictonary.pdb
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\obj\Debug\lambdaWithDictonary.exe
+C:\Users\Administrator\source\repos\lambdaWithDictonary\lambdaWithDictonary\obj\Debug\lambdaWithDictonary.pdb

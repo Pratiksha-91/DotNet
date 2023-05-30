@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\swapletter\swapletter\bin\Debug\swapletter.exe.config
+C:\Users\Administrator\source\repos\swapletter\swapletter\bin\Debug\swapletter.exe
+C:\Users\Administrator\source\repos\swapletter\swapletter\bin\Debug\swapletter.pdb
+C:\Users\Administrator\source\repos\swapletter\swapletter\obj\Debug\swapletter.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\swapletter\swapletter\obj\Debug\swapletter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\swapletter\swapletter\obj\Debug\swapletter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\swapletter\swapletter\obj\Debug\swapletter.exe
+C:\Users\Administrator\source\repos\swapletter\swapletter\obj\Debug\swapletter.pdb

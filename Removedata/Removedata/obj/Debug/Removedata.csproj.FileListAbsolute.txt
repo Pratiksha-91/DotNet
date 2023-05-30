@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Removedata\Removedata\bin\Debug\Removedata.exe.config
+C:\Users\Administrator\source\repos\Removedata\Removedata\bin\Debug\Removedata.exe
+C:\Users\Administrator\source\repos\Removedata\Removedata\bin\Debug\Removedata.pdb
+C:\Users\Administrator\source\repos\Removedata\Removedata\obj\Debug\Removedata.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Removedata\Removedata\obj\Debug\Removedata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Removedata\Removedata\obj\Debug\Removedata.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Removedata\Removedata\obj\Debug\Removedata.exe
+C:\Users\Administrator\source\repos\Removedata\Removedata\obj\Debug\Removedata.pdb

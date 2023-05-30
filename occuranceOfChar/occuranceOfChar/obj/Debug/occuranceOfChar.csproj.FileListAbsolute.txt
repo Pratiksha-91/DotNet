@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\bin\Debug\occuranceOfChar.exe.config
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\bin\Debug\occuranceOfChar.exe
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\bin\Debug\occuranceOfChar.pdb
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\obj\Debug\occuranceOfChar.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\obj\Debug\occuranceOfChar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\obj\Debug\occuranceOfChar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\obj\Debug\occuranceOfChar.exe
+C:\Users\Administrator\source\repos\occuranceOfChar\occuranceOfChar\obj\Debug\occuranceOfChar.pdb

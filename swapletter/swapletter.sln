@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swapletter", "swapletter\swapletter.csproj", "{2A8E65D3-ABF1-4807-90A4-0B346A9B547D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8E65D3-ABF1-4807-90A4-0B346A9B547D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8E65D3-ABF1-4807-90A4-0B346A9B547D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8E65D3-ABF1-4807-90A4-0B346A9B547D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8E65D3-ABF1-4807-90A4-0B346A9B547D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A29AA6-6408-4074-905C-A2B9120FF816}
+	EndGlobalSection
+EndGlobal

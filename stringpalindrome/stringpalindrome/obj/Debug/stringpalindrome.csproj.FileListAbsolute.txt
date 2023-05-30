@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\bin\Debug\stringpalindrome.exe.config
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\bin\Debug\stringpalindrome.exe
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\bin\Debug\stringpalindrome.pdb
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\obj\Debug\stringpalindrome.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\obj\Debug\stringpalindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\obj\Debug\stringpalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\obj\Debug\stringpalindrome.exe
+C:\Users\Administrator\source\repos\stringpalindrome\stringpalindrome\obj\Debug\stringpalindrome.pdb

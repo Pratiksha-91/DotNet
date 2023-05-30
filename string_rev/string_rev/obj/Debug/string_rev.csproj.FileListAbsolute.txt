@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\string_rev\string_rev\bin\Debug\string_rev.exe.config
+C:\Users\Administrator\source\repos\string_rev\string_rev\bin\Debug\string_rev.exe
+C:\Users\Administrator\source\repos\string_rev\string_rev\bin\Debug\string_rev.pdb
+C:\Users\Administrator\source\repos\string_rev\string_rev\obj\Debug\string_rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\string_rev\string_rev\obj\Debug\string_rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\string_rev\string_rev\obj\Debug\string_rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\string_rev\string_rev\obj\Debug\string_rev.exe
+C:\Users\Administrator\source\repos\string_rev\string_rev\obj\Debug\string_rev.pdb

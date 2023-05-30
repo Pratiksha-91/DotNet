@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\bin\Debug\StarPattern1.exe.config
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\bin\Debug\StarPattern1.exe
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\bin\Debug\StarPattern1.pdb
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\obj\Debug\StarPattern1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\obj\Debug\StarPattern1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\obj\Debug\StarPattern1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\obj\Debug\StarPattern1.exe
+C:\Users\Administrator\source\repos\StarPattern1\StarPattern1\obj\Debug\StarPattern1.pdb

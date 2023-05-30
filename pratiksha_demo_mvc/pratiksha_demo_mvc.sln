@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratiksha_demo_mvc", "pratiksha_demo_mvc\pratiksha_demo_mvc.csproj", "{372656C4-DF83-4A4C-834F-2724AF2A40DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372656C4-DF83-4A4C-834F-2724AF2A40DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372656C4-DF83-4A4C-834F-2724AF2A40DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372656C4-DF83-4A4C-834F-2724AF2A40DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372656C4-DF83-4A4C-834F-2724AF2A40DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA3FA8D-2829-4857-841F-50A9A0B3B8B0}
+	EndGlobalSection
+EndGlobal

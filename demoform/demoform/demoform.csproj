@@ -67,6 +67,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>studentRecord1.Context.tt</DependentUpon>
     </Compile>
+    <Compile Include="studentRecord1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>studentRecord1.tt</DependentUpon>
+    </Compile>
     <Compile Include="studentRecord1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -109,6 +114,12 @@
     <Content Include="studentRecord1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>studentRecord1.Context.cs</LastGenOutput>
+      <DependentUpon>studentRecord1.edmx</DependentUpon>
+    </Content>
+    <Content Include="studentRecord1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>studentRecord1.edmx</DependentUpon>
+      <LastGenOutput>studentRecord1.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>

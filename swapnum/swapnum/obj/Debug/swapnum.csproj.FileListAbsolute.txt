@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\swapnum\swapnum\bin\Debug\swapnum.exe.config
+C:\Users\Administrator\source\repos\swapnum\swapnum\bin\Debug\swapnum.exe
+C:\Users\Administrator\source\repos\swapnum\swapnum\bin\Debug\swapnum.pdb
+C:\Users\Administrator\source\repos\swapnum\swapnum\obj\Debug\swapnum.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\swapnum\swapnum\obj\Debug\swapnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\swapnum\swapnum\obj\Debug\swapnum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\swapnum\swapnum\obj\Debug\swapnum.exe
+C:\Users\Administrator\source\repos\swapnum\swapnum\obj\Debug\swapnum.pdb

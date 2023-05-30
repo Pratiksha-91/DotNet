@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Removedata", "Removedata\Removedata.csproj", "{914E4237-8370-428E-B559-630F7878253C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914E4237-8370-428E-B559-630F7878253C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914E4237-8370-428E-B559-630F7878253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914E4237-8370-428E-B559-630F7878253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914E4237-8370-428E-B559-630F7878253C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32868F0-223E-40D4-BA16-669A02B1E2C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\bin\Debug\rectPattern.exe.config
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\bin\Debug\rectPattern.exe
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\bin\Debug\rectPattern.pdb
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\obj\Debug\rectPattern.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\obj\Debug\rectPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\obj\Debug\rectPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\obj\Debug\rectPattern.exe
+C:\Users\Administrator\source\repos\rectPattern\rectPattern\obj\Debug\rectPattern.pdb

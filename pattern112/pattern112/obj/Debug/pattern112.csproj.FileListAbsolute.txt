@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\pattern112\pattern112\obj\Debug\pattern112.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pattern112\pattern112\obj\Debug\pattern112.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\pattern112\pattern112\obj\Debug\pattern112.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pattern112\pattern112\bin\Debug\pattern112.exe.config
+C:\Users\Administrator\source\repos\pattern112\pattern112\bin\Debug\pattern112.exe
+C:\Users\Administrator\source\repos\pattern112\pattern112\bin\Debug\pattern112.pdb
+C:\Users\Administrator\source\repos\pattern112\pattern112\obj\Debug\pattern112.exe
+C:\Users\Administrator\source\repos\pattern112\pattern112\obj\Debug\pattern112.pdb

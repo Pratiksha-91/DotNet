@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\bin\Debug\stringpalino.exe.config
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\bin\Debug\stringpalino.exe
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\bin\Debug\stringpalino.pdb
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\obj\Debug\stringpalino.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\obj\Debug\stringpalino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\obj\Debug\stringpalino.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\obj\Debug\stringpalino.exe
+C:\Users\Administrator\source\repos\stringpalino\stringpalino\obj\Debug\stringpalino.pdb
